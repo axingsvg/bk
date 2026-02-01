@@ -11,7 +11,7 @@ draft: false
 
 # 使用说明
 
-使用 Safan 浏览器打开并下载描述文件
+使用 Safari 浏览器打开并下载描述文件
 
 描述文件：https://d-updater.i4.cn/web/mobileconfig/iOS26.mobileconfig
 
@@ -19,6 +19,6 @@ draft: false
 
 ![1](https://img.ax6b.cn/v2/fKD6NF1.jpeg "Optional title")
 
-18.1 系统版本也能使用，这下舒服了。
+亲测 18.1 系统版本也能使用，这下舒服了。
 
 ![2](https://img.ax6b.cn/v2/piwns7g.jpeg "Optional title")
